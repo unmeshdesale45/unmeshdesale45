@@ -8,9 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions;Turning+ideas+into+working+products;Exploring+AI%2C+Data+%26+Backend+Development;Always+learning%2C+always+building" />
 <div align="center">
-
-<img src="YOUR_GIF_URL" width="850"/>
-
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/unmesh_cyberpunk_coding.gif" width="900">
 </div>
 
 <br>
