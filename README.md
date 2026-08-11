@@ -11,9 +11,9 @@
 ### AI & Data Science Engineer | Software Developer | AI/ML Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions;Turning+ideas+into+working+products;Exploring+AI%2C+Data+%26+Backend+Development;Always+learning%2C+always+building" />
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/unmesh_cyberpunk_coding.gif" width="900">
-</div>
+<p align="center">
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" />
+</p>
 
 <br>
 
