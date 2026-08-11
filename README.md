@@ -133,25 +133,10 @@ I'm an **Artificial Intelligence & Data Science Engineer** passionate about buil
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=unmeshdesale45&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=unmeshdesale45&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=unmeshdesale45&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
