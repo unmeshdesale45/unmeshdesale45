@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<p align="center">
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" />
+</p>
+
 # Hi, I'm Unmesh Desale 👋
 
 ### AI & Data Science Engineer | Software Developer | AI/ML Enthusiast
